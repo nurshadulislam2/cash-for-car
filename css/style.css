@@ -1,0 +1,176 @@
+.banner {
+  background: url(../images/bg1.jpg) no-repeat;
+  background-size: cover;
+  padding: 60px 0;
+  color: #fff;
+}
+
+.menu {
+  background-color: transparent !important;
+}
+
+.brand {
+  font-size: 40px;
+  color: #fafd17 !important;
+  font-style: italic;
+}
+
+.menu .nav-link {
+  color: #f6f9fa !important;
+  margin-right: 40px;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+h1 {
+  margin-top: 100px;
+  padding: 25px 35px;
+  font-size: 45px;
+  background: #353634;
+  margin-bottom: 30px;
+}
+
+.banner-p {
+  margin-bottom: 80px;
+}
+
+.bcd {
+  width: 30px;
+  height: 2px;
+  background: #fff;
+  margin-bottom: 40px;
+}
+
+.btn1 {
+  color: #fff;
+  border-color: #fff;
+  padding: 20px 100px;
+  margin-bottom: 60px;
+  text-transform: uppercase;
+}
+
+.text {
+  background: #f6f6f6;
+  position: relative;
+}
+
+.car1 {
+  width: 700px;
+}
+
+h2 {
+  padding-top: 120px;
+  font-size: 45px;
+  text-transform: uppercase;
+}
+
+.text .bcd {
+  background: #000;
+  margin: 20px 0;
+}
+
+.text p {
+  color: #a5a5a5;
+  margin-bottom: 55px;
+}
+
+.hmp {
+  position: absolute;
+  left: 48%;
+  bottom: -50px;
+}
+
+.hmp img {
+  width: 100%;
+  height: 100%;
+}
+
+.text2 {
+  background-color: #28282e;
+  color: #fff;
+}
+
+.text2 h2 {
+  padding-top: 100px;
+}
+
+.text2 p {
+  margin-bottom: 50px;
+}
+
+.text2 img {
+  margin-bottom: 50px;
+}
+
+footer {
+  padding: 30px 0;
+  color: #fff;
+  background: #ef4035;
+}
+
+.header {
+  padding: 10px 0;
+  border-bottom: 5px solid #e4e4e4;
+}
+
+.menu2 {
+  background: transparent !important;
+}
+
+.menu2 .nav-link {
+  color: #005e7e !important;
+  text-transform: uppercase;
+}
+
+.contact {
+  background: #ee4a3f;
+  color: #fff;
+}
+
+.contact h2 {
+  padding-top: 50px;
+  color: #fff;
+  margin-bottom: 50px;
+}
+
+.c1 {
+  margin-bottom: 40px;
+}
+
+.c2 {
+  padding-top: 70px;
+}
+
+input {
+  background-color: #ff6258 !important;
+  border: none !important;
+  outline: 0;
+}
+
+.btn2 {
+  color: #fff;
+  border: none;
+  font-style: italic;
+  margin-top: 70px;
+  padding: 15px 30px;
+  margin-bottom: 60px;
+  text-transform: uppercase;
+}
+
+.about h2 {
+  padding-top: 50px;
+  margin-bottom: 50px;
+}
+
+.fa-angle-left {
+  font-size: 300px;
+  font-weight: bolder;
+}
+
+.a1 {
+  padding-top: 80px;
+}
+
+.white {
+  background-color: #fff;
+}
